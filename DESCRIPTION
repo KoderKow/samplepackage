@@ -14,3 +14,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/KoderKow/samplepackage
 BugReports: https://github.com/KoderKow/samplepackage/issues
+RoxygenNote: 6.1.1
